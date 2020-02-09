@@ -1,0 +1,29 @@
+body{
+    background-image: url("img2.jpg");
+
+    color: white;
+    text-transform: none;
+    letter-spacing: 3px;
+    font-size: 17px;
+    
+}
+    
+.nav-links li{
+    font-size: 17px;
+    width: 5px;
+    display: inline;
+    justify-content: flex-start;
+    background-color: darkgreen;
+}
+
+.x{
+    font-size: 17px;
+    width: 5px;
+    display: flex;
+}
+
+.y{
+    font-size: 17px
+    width 5px;
+    display: flex;
+}
