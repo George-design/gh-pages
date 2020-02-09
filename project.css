@@ -10,7 +10,7 @@ body{
     
 .nav-links li{
     font-size: 17px;
-    width: 5px;
+    width:5px;
     display: inline;
     justify-content: flex-start;
     background-color: darkgreen;
