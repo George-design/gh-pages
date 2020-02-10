@@ -5,24 +5,26 @@ body{
     text-transform: none;
     letter-spacing: 3px;
     font-size: 17px;
+    box-sizing: border-box;
     
 }
     
-nav-links li{
-    font-size: 17px;
-    width:5px;
+nav li{
+    font-size: 20px;
+    width: 60px;
     display: inline;
-    justify-content: flex-start;
-    background-color: darkgreen;
+    
+    background-color: #SD4954;
+    
 }
 
-.x{
+x{
     font-size: 17px;
     width: 5px;
     display: flex;
 }
 
-.y{
+y{
     font-size: 17px
     width 5px;
     display: flex;
